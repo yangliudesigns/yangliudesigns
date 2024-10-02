@@ -1,6 +1,6 @@
 # 👋 Hello, I’m Yang
 
-A Product UX/UI Designer and Software Engineer.
+A UX/UI Designer and Software Engineer.
 <br/>
 
 - 📬 Reach me at <a href="https://www.linkedin.com/in/charlotte-yangliu"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue?logo=linkedin&logoColor=white"></a>
