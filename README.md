@@ -7,6 +7,10 @@
 <h3 align="center">Tech Stack</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,react,nextjs,tailwindcss,nodejs,express,mysql,git,github,npm,vite,postman,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,react,nextjs,tailwindcss,nodejs,express,mysql" />
+  </a>
+<h3 align="center">Tools</h3>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vite,npm,postman,figma" />
   </a>
 </p>
