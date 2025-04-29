@@ -9,7 +9,9 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,react,nextjs,tailwindcss,nodejs,express,mysql" />
   </a>
+</p>
 <h3 align="center">Tools</h3>
+  <p align="center">
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vite,npm,postman,figma" />
   </a>
